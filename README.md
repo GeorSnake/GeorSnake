@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">I'm a backend developer. I have taken several different courses on Python programming and dependent tools, and I'm also studying Computer Science and Computer Engineering at university with a major in Computer Software and Automated Systems. At the moment I have commercial experience in developing chatbots, and microservices in python.</h3>
+<h3 align="center">I am a backend developer in Python. Commercial development experience for more than two years. Bachelor's degree in Informatics and Computer Science with the profile of "Software for Computer Science and Automated Systems".</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
